@@ -1,5 +1,5 @@
 # GetGettyFlaskApp
-A small application for downloading high quality images *without watermark* from some popular photo hosting.
+A small application for downloading images in high quality *without watermark* from some popular photo hosting.
 
 Be aware: images may be copyrighted. In this case, you cannot use them without permission from the owner.
 
