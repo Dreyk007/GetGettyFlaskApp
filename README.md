@@ -1,5 +1,7 @@
 # GetGettyFlaskApp
-A small application for downloading high quality images from some popular photo hosting.
+A small application for downloading high quality images *without watermark* from some popular photo hosting.
+
+Be aware: images may be copyrighted. In this case, you cannot use them without permission from the owner.
 
 ### Used with Chrome extension: https://github.com/Dreyk007/GetGettyChromeExtension
 
@@ -29,7 +31,7 @@ A small application for downloading high quality images from some popular photo 
 
 ### Notes:
 * Basic Views related to registration and authorization are in the: GetGettyFlaskApp/app/routes.py
-* The View for verifying the api key and downloading images is in the GetGettyFlaskApp/app/api.py
+* The View for verifying api key and downloading images is in the GetGettyFlaskApp/app/api.py
 * Logic of image processing in the: GetGettyFlaskApp/GetGettyDownloader.py
 
 ## Use for educational purposes only.
